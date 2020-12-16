@@ -1,2 +1,0 @@
-# TaxiSimEvolution
-<! -- Official website --> 
