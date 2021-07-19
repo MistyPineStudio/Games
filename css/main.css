@@ -68,21 +68,17 @@ h2, .zone-break
     padding-left: 10px;
     margin-right: -10px;
 }
-.gameDesc h3
+.gameDesc h3, p
 {
     margin: 0;
-}
-.gameDesc p
-{
-    margin: 10px 0 10px 0;
 }
 
 article
 {
-    border-radius: 45px;
+    border-radius: 20px;
     height: 125px;
     width: 280px;
-    background-color: white;
+    background-color:whitesmoke;
     color: #2d2d2d;
     margin-bottom: 20px;
     padding: 20px;
@@ -94,7 +90,6 @@ article img
     max-width: 125px;
     max-height: 125px;
 }
-
 
 hr
 {
